@@ -3,3 +3,4 @@ For our physical computer project, we decided to build a Simulator Weather Lamp 
 
 ![alt text](https://github.com/AmirDavoodi/SimulatorWeatherLamp/blob/master/imgs/Picture%208.png)
 
+![alt text](https://github.com/AmirDavoodi/SimulatorWeatherLamp/blob/master/imgs/Picture%205.png)
