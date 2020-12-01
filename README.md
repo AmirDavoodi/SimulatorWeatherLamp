@@ -5,4 +5,4 @@ For our physical computer project, we decided to build a Simulator Weather Lamp 
 
 ![alt text](https://github.com/AmirDavoodi/SimulatorWeatherLamp/blob/master/imgs/Picture%205.png)
 
-Please look at the [This](SimulatorWeatherLamp/blob/master/FInal%20report/Physical%20Computing%20Final%20Report.pdf) to get more detail about the project.
+Please look at the [This](FInal%20report/Physical%20Computing%20Final%20Report.pdf) to get more detail about the project.
